@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = "mongodb+srv://Antier:Antier123@antier.jvklgyk.mongodb.net/UserData?retryWrites=true&w=majority"
+const mongoURI = "<Mongodb uri"  //insert your own mongodb uri
 
 const connectToMongo=()=>{
   
